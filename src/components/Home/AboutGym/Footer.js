@@ -6,7 +6,7 @@ import { API_URL } from "../../common/URL"
 const Footer = () => {
 
     let i = 0;
-    let j=0;
+  
     const [allfeedbacklist, setAllFeedbackList] = useState([])
     const [feedbacklist, setFeedbackList] = useState([])
 
