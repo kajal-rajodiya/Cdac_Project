@@ -7,3 +7,4 @@ import com.app.pojos.Diet;
 public interface DietRepository extends JpaRepository<Diet, Integer> {
 
 }
+//.
