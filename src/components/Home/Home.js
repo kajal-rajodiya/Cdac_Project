@@ -67,7 +67,7 @@ function Home({ authorized }) {
         <Intro></Intro>
       </div>
 
-      {/* <UserFeedback></UserFeedback> */}
+      {/* <UserFeedback></UserFeedback>. */}
 
       <div className="footer" id="contact">
         <Footer></Footer>
